@@ -1,5 +1,6 @@
 #!/bin/bash
 ANSWER=(
+# Add stuff via github (https://github.com/orgrossmdevs/8ball/)
    "Signs point to yes."
    "Yes."
    "Reply hazy, try again."
